@@ -1,0 +1,15 @@
+C:\Users\roger\Documents\testesunitarios\calculadora\bin\Debug\net6.0\calculadora.exe
+C:\Users\roger\Documents\testesunitarios\calculadora\bin\Debug\net6.0\calculadora.deps.json
+C:\Users\roger\Documents\testesunitarios\calculadora\bin\Debug\net6.0\calculadora.runtimeconfig.json
+C:\Users\roger\Documents\testesunitarios\calculadora\bin\Debug\net6.0\calculadora.dll
+C:\Users\roger\Documents\testesunitarios\calculadora\bin\Debug\net6.0\calculadora.pdb
+C:\Users\roger\Documents\testesunitarios\calculadora\obj\Debug\net6.0\calculadora.csproj.AssemblyReference.cache
+C:\Users\roger\Documents\testesunitarios\calculadora\obj\Debug\net6.0\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Documents\testesunitarios\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfoInputs.cache
+C:\Users\roger\Documents\testesunitarios\calculadora\obj\Debug\net6.0\calculadora.AssemblyInfo.cs
+C:\Users\roger\Documents\testesunitarios\calculadora\obj\Debug\net6.0\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\roger\Documents\testesunitarios\calculadora\obj\Debug\net6.0\calculadora.dll
+C:\Users\roger\Documents\testesunitarios\calculadora\obj\Debug\net6.0\refint\calculadora.dll
+C:\Users\roger\Documents\testesunitarios\calculadora\obj\Debug\net6.0\calculadora.pdb
+C:\Users\roger\Documents\testesunitarios\calculadora\obj\Debug\net6.0\calculadora.genruntimeconfig.cache
+C:\Users\roger\Documents\testesunitarios\calculadora\obj\Debug\net6.0\ref\calculadora.dll
