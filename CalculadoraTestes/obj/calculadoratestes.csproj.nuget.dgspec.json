@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roger\\Documents\\testesunitarios\\calculadoratestes\\calculadoratestes.csproj": {}
+    "C:\\Users\\roger\\Documents\\testesunitarios\\CalculadoraTestes\\calculadoratestes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roger\\Documents\\testesunitarios\\calculadoratestes\\calculadoratestes.csproj": {
+    "C:\\Users\\roger\\Documents\\testesunitarios\\CalculadoraTestes\\calculadoratestes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roger\\Documents\\testesunitarios\\calculadoratestes\\calculadoratestes.csproj",
+        "projectUniqueName": "C:\\Users\\roger\\Documents\\testesunitarios\\CalculadoraTestes\\calculadoratestes.csproj",
         "projectName": "calculadoratestes",
-        "projectPath": "C:\\Users\\roger\\Documents\\testesunitarios\\calculadoratestes\\calculadoratestes.csproj",
+        "projectPath": "C:\\Users\\roger\\Documents\\testesunitarios\\CalculadoraTestes\\calculadoratestes.csproj",
         "packagesPath": "C:\\Users\\roger\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roger\\Documents\\testesunitarios\\calculadoratestes\\obj\\",
+        "outputPath": "C:\\Users\\roger\\Documents\\testesunitarios\\CalculadoraTestes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\roger\\AppData\\Roaming\\NuGet\\NuGet.Config"
